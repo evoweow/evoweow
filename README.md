@@ -1,7 +1,1 @@
-- 👋 Hi, I’m evo :3
-- 👀 I’m interested in Arduino stuff
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me discord (theevoguy#4125)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i learn fast when i want
+serial.println("weow");
